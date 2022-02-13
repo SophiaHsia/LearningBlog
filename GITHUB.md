@@ -31,7 +31,8 @@
 ![[Pasted image 20220213144648.png]]
 
 
-## 4. Git  Branching
+## 4. Git  Branching 
 how to use a git banching and.
 
 test: how you use a feature branching.
+test2: how you use a feature branching.
