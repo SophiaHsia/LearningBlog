@@ -28,7 +28,8 @@
 - `git push origin master`: push your local file to GitHub repository;
 
 ## Summary: Workflow in GitHub and Local editors
-Pasted image 20220213144648.png
+- GitHub Workflow: Write code → Commit Changes → Make a Pull Request
+- Local Git Workflow: Write code → Stage changes `git add` → Commit Changes `git commit` → Push Changes `git push` → Make a pull request
 
 ## 4. Git  Branching
 how to use a git banching and.
