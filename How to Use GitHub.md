@@ -28,8 +28,7 @@
 - `git push origin master`: push your local file to GitHub repository;
 
 ## Summary: Workflow in GitHub and Local editors
-![[Pasted image 20220213144648.png]]
-
+Pasted image 20220213144648.png
 
 ## 4. Git  Branching
 how to use a git banching and.
